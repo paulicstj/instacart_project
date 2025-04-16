@@ -1,1 +1,3 @@
-# instacart_project
+Instacart is a grocery delivery platform where customers can place an order and have it delivered, similar to Uber Eats and DoorDash.
+
+You must complete three steps. For each step,  write a brief introduction that clearly reflects how you intend to solve each step, and write explanatory paragraphs that justify your decisions as you elaborate on your solution. Also write a conclusion that summarizes your findings and choices.
